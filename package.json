@@ -1,0 +1,12 @@
+{
+  "name": "autos",
+  "version": "1.0.0",
+  "description": "Practica Autos",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node app.js"
+  },
+  "author": "Benjamin Pena",
+  "license": "MIT"
+}
